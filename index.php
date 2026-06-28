@@ -6,11 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <nav> 
-        <a href="index.html">Home Page</a>
-        <a href="Profesores.html">Profesores</a>
-        <a href="contacto.html">Contacto</a>
-    </nav>
+    <?php include 'nav.php'; ?>
     <h1>Inicio</h1>
 </body>
 </html>
